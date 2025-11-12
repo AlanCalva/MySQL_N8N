@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     // 🌐 URL DE NODO WEBHOOK EN N8N
-    const N8N_WEBHOOK_URL = "https://alancalva.app.n8n.cloud/webhook/b5e7f13f-047e-414c-ac64-64716387491c";
+    const N8N_WEBHOOK_URL = "https://alfredocalva.app.n8n.cloud/webhook/b5e7f13f-047e-414c-ac64-64716387491c";
 
     // 🔹 Referencias a los elementos del DOM
     const btnCalcular = document.getElementById('btnCalcular');
